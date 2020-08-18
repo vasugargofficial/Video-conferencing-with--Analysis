@@ -1,0 +1,509 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [com.google.android.material:material:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ca847e5b14748eb74757e42da24537f9/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/efe0204f459dd0f6c87b686790104980/jetified-camera-view-1.0.0-alpha14/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/5865bef9f517aac03541effd167a8116/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vasu/.gradle/caches/transforms-2/files-2.1/fa1566f0b4e68ba7eb0270db520221c9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1389646dcdf17c6bdde7ba1c11caf055/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/0caaf3ad8d375379d8fac9161788791f/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/b832c3edb023b347fb183411e48c5e19/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e383ad7c357758893cce8d4152901254/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4952f2d87c02888409b3716139c768a8/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c4432b2ba742c4de3e71e1c4adfebb4/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.volley:volley:1.1.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/9acf3c6447492352812c9ba72b86bd34/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/61279e0cdcb2c24b747eb510e33e9412/jetified-camera-camera2-1.0.0-beta07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/74afb3511c05dfb6191fe1ab2a35bc24/jetified-camera-lifecycle-1.0.0-beta07/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/2f05e85ae0d07c747b9ffe4ea50bbe95/jetified-tensorflow-lite-support-0.0.0-nightly/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/5cd56eccd918e220788b15729d1018f0/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/9750a1f20615ab94306dcab9e3bb9eb5/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.mlkit:face-detection:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/7df07005c9e5bfebe83733b548ca8812/jetified-face-detection-16.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c5ecb49a3f6442c381b86df9eed056a/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/2a0d85dfbfda3e6b74c7236755ddf770/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a3ac06f3c8768ff3e66c7c07f22f773c/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/43e03993d9ec876bf9d3d3fc456661ea/jetified-play-services-vision-20.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4540638014a840de8e362d4bd090c7df/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2de2776830227f6ed19a74f1134b68b0/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4ddbec27815d7ba9093f5f895a07334/jetified-play-services-flags-17.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/6540b1c127ece6732782ed479bbfe38e/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4d8d530ed97bf8b0fecca56f0a1a627/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c972c342bc769a75c394c8551ee253be/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1168a7369564dc13aec39d2ab8d0ad2c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ebfccf12aa65df77fbf0494f73b36bab/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/b3d4ad53dda5ad8ab643025f43491d29/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/587b0a4acc5a968faa30bee6fa9fac9d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8962a7fad75af76fa19ac566a9201f54/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/7e67e22f247dec7f7a89553cf3a01490/jetified-camera-core-1.0.0-beta07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/01c01085d733a50741d8635da9e2ee1f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/db1e833d3a09728d8b6933725f7d2077/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/86a6e4f05f7b51af1f6020018299810c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/25f4fb08714c79790ee9d8de3f8f44f9/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/cfc4966121c7a6dbeaf772e5fe27a449/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/fe2cd2717f3b682db8372ca93db0c05f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/07c9c0a20efdcf7656ed8e08cc545c11/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1d1db5c8733b4a5595768b59c376a9fe/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2a2fa9d764c584885c3dec1d762fc70a/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f24c9a9995d8776bacb8b9a4fd4a90e/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4d73280279a4c1f42524237947c184c3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/add23395f2ccada284a2e06c8c650792/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/9af611ee5306f70d2a2096d628855cff/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e6aa3f8f816fe4c223e1fe0e190abf60/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e8420a3d5ad268fd044ca39494eefb4b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/a222a2a20f3d7a01b6d034bcccc11fbb/jetified-transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:13:22-72
+uses-feature#android.hardware.camera
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:16:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:19:9-57
+uses-feature#0x00030000
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:21:5-23:35
+	android:glEsVersion
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:22:9-41
+	android:required
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:23:9-32
+application
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:25:5-54:19
+MERGED from [com.google.android.material:material:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ca847e5b14748eb74757e42da24537f9/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ca847e5b14748eb74757e42da24537f9/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vasu/.gradle/caches/transforms-2/files-2.1/fa1566f0b4e68ba7eb0270db520221c9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vasu/.gradle/caches/transforms-2/files-2.1/fa1566f0b4e68ba7eb0270db520221c9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/9acf3c6447492352812c9ba72b86bd34/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/9acf3c6447492352812c9ba72b86bd34/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:28:5-36:19
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:24:5-28:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/5cd56eccd918e220788b15729d1018f0/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/5cd56eccd918e220788b15729d1018f0/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/9750a1f20615ab94306dcab9e3bb9eb5/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/9750a1f20615ab94306dcab9e3bb9eb5/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c5ecb49a3f6442c381b86df9eed056a/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c5ecb49a3f6442c381b86df9eed056a/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a3ac06f3c8768ff3e66c7c07f22f773c/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a3ac06f3c8768ff3e66c7c07f22f773c/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/43e03993d9ec876bf9d3d3fc456661ea/jetified-play-services-vision-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/43e03993d9ec876bf9d3d3fc456661ea/jetified-play-services-vision-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4540638014a840de8e362d4bd090c7df/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4540638014a840de8e362d4bd090c7df/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2de2776830227f6ed19a74f1134b68b0/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2de2776830227f6ed19a74f1134b68b0/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/6540b1c127ece6732782ed479bbfe38e/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/6540b1c127ece6732782ed479bbfe38e/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4d8d530ed97bf8b0fecca56f0a1a627/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4d8d530ed97bf8b0fecca56f0a1a627/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/25f4fb08714c79790ee9d8de3f8f44f9/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/25f4fb08714c79790ee9d8de3f8f44f9/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:29:9-40
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:30:9-32:36
+	android:value
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:31:13-70
+activity#com.team.uical.JoinMeeting
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:33:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.team.uical.MainActivity
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:40:9-53:20
+	android:label
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:43:13-45
+	android:launchMode
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:44:13-43
+	android:configChanges
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:41:13-55
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:vidyoconnector
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:45:13-52:29
+action#android.intent.action.VIEW
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:48:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:49:27-75
+data
+ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:51:17-57
+	android:scheme
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:51:23-54
+uses-sdk
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ca847e5b14748eb74757e42da24537f9/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ca847e5b14748eb74757e42da24537f9/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/efe0204f459dd0f6c87b686790104980/jetified-camera-view-1.0.0-alpha14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/efe0204f459dd0f6c87b686790104980/jetified-camera-view-1.0.0-alpha14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/5865bef9f517aac03541effd167a8116/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/5865bef9f517aac03541effd167a8116/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vasu/.gradle/caches/transforms-2/files-2.1/fa1566f0b4e68ba7eb0270db520221c9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/vasu/.gradle/caches/transforms-2/files-2.1/fa1566f0b4e68ba7eb0270db520221c9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1389646dcdf17c6bdde7ba1c11caf055/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1389646dcdf17c6bdde7ba1c11caf055/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/0caaf3ad8d375379d8fac9161788791f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/0caaf3ad8d375379d8fac9161788791f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/b832c3edb023b347fb183411e48c5e19/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/b832c3edb023b347fb183411e48c5e19/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e383ad7c357758893cce8d4152901254/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e383ad7c357758893cce8d4152901254/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4952f2d87c02888409b3716139c768a8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4952f2d87c02888409b3716139c768a8/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c4432b2ba742c4de3e71e1c4adfebb4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c4432b2ba742c4de3e71e1c4adfebb4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.volley:volley:1.1.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/9acf3c6447492352812c9ba72b86bd34/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/9acf3c6447492352812c9ba72b86bd34/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/61279e0cdcb2c24b747eb510e33e9412/jetified-camera-camera2-1.0.0-beta07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/61279e0cdcb2c24b747eb510e33e9412/jetified-camera-camera2-1.0.0-beta07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/74afb3511c05dfb6191fe1ab2a35bc24/jetified-camera-lifecycle-1.0.0-beta07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/74afb3511c05dfb6191fe1ab2a35bc24/jetified-camera-lifecycle-1.0.0-beta07/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/2f05e85ae0d07c747b9ffe4ea50bbe95/jetified-tensorflow-lite-support-0.0.0-nightly/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/2f05e85ae0d07c747b9ffe4ea50bbe95/jetified-tensorflow-lite-support-0.0.0-nightly/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/5cd56eccd918e220788b15729d1018f0/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/5cd56eccd918e220788b15729d1018f0/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/9750a1f20615ab94306dcab9e3bb9eb5/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/vasu/.gradle/caches/transforms-2/files-2.1/9750a1f20615ab94306dcab9e3bb9eb5/jetified-tensorflow-lite-gpu-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.mlkit:face-detection:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/7df07005c9e5bfebe83733b548ca8812/jetified-face-detection-16.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/7df07005c9e5bfebe83733b548ca8812/jetified-face-detection-16.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c5ecb49a3f6442c381b86df9eed056a/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2c5ecb49a3f6442c381b86df9eed056a/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/2a0d85dfbfda3e6b74c7236755ddf770/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/2a0d85dfbfda3e6b74c7236755ddf770/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a3ac06f3c8768ff3e66c7c07f22f773c/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-face-contour-internal:16.0.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a3ac06f3c8768ff3e66c7c07f22f773c/jetified-play-services-vision-face-contour-internal-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/43e03993d9ec876bf9d3d3fc456661ea/jetified-play-services-vision-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/43e03993d9ec876bf9d3d3fc456661ea/jetified-play-services-vision-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4540638014a840de8e362d4bd090c7df/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4540638014a840de8e362d4bd090c7df/jetified-play-services-vision-common-19.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2de2776830227f6ed19a74f1134b68b0/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2de2776830227f6ed19a74f1134b68b0/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4ddbec27815d7ba9093f5f895a07334/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4ddbec27815d7ba9093f5f895a07334/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/6540b1c127ece6732782ed479bbfe38e/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/6540b1c127ece6732782ed479bbfe38e/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4d8d530ed97bf8b0fecca56f0a1a627/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c4d8d530ed97bf8b0fecca56f0a1a627/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c972c342bc769a75c394c8551ee253be/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/c972c342bc769a75c394c8551ee253be/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1168a7369564dc13aec39d2ab8d0ad2c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1168a7369564dc13aec39d2ab8d0ad2c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ebfccf12aa65df77fbf0494f73b36bab/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/ebfccf12aa65df77fbf0494f73b36bab/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/b3d4ad53dda5ad8ab643025f43491d29/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/b3d4ad53dda5ad8ab643025f43491d29/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/587b0a4acc5a968faa30bee6fa9fac9d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/587b0a4acc5a968faa30bee6fa9fac9d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8962a7fad75af76fa19ac566a9201f54/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8962a7fad75af76fa19ac566a9201f54/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/7e67e22f247dec7f7a89553cf3a01490/jetified-camera-core-1.0.0-beta07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta07] /home/vasu/.gradle/caches/transforms-2/files-2.1/7e67e22f247dec7f7a89553cf3a01490/jetified-camera-core-1.0.0-beta07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/01c01085d733a50741d8635da9e2ee1f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/01c01085d733a50741d8635da9e2ee1f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/db1e833d3a09728d8b6933725f7d2077/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/db1e833d3a09728d8b6933725f7d2077/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/86a6e4f05f7b51af1f6020018299810c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/86a6e4f05f7b51af1f6020018299810c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/25f4fb08714c79790ee9d8de3f8f44f9/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/25f4fb08714c79790ee9d8de3f8f44f9/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/cfc4966121c7a6dbeaf772e5fe27a449/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/cfc4966121c7a6dbeaf772e5fe27a449/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/fe2cd2717f3b682db8372ca93db0c05f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/fe2cd2717f3b682db8372ca93db0c05f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/07c9c0a20efdcf7656ed8e08cc545c11/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/07c9c0a20efdcf7656ed8e08cc545c11/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1d1db5c8733b4a5595768b59c376a9fe/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1d1db5c8733b4a5595768b59c376a9fe/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2a2fa9d764c584885c3dec1d762fc70a/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/2a2fa9d764c584885c3dec1d762fc70a/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f24c9a9995d8776bacb8b9a4fd4a90e/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f24c9a9995d8776bacb8b9a4fd4a90e/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4d73280279a4c1f42524237947c184c3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/4d73280279a4c1f42524237947c184c3/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/add23395f2ccada284a2e06c8c650792/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/add23395f2ccada284a2e06c8c650792/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/9af611ee5306f70d2a2096d628855cff/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/9af611ee5306f70d2a2096d628855cff/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e6aa3f8f816fe4c223e1fe0e190abf60/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e6aa3f8f816fe4c223e1fe0e190abf60/jetified-firebase-encoders-json-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e8420a3d5ad268fd044ca39494eefb4b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e8420a3d5ad268fd044ca39494eefb4b/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/a222a2a20f3d7a01b6d034bcccc11fbb/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/a222a2a20f3d7a01b6d034bcccc11fbb/jetified-transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		ADDED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		MERGED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		MERGED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:33:17-109
+uses-library#androidx.camera.extensions.impl
+ADDED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:26:13-59
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:33:13-132

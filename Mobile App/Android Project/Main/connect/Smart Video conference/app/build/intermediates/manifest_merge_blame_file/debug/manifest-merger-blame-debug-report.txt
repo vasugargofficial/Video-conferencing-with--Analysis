@@ -1,0 +1,244 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.team.uical"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:6:5-81
+12-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:7:5-65
+13-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:7:22-62
+14    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+14-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:8:5-79
+14-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:9:5-71
+15-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:9:22-68
+16    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+16-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:10:5-80
+16-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:10:22-77
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:11:5-79
+17-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:12:5-76
+18-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:12:22-73
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:13:5-75
+19-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:13:22-72
+20
+21    <uses-feature
+21-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:15:5-17:36
+22        android:name="android.hardware.camera"
+22-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:16:9-47
+23        android:required="false" />
+23-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:17:9-33
+24    <uses-feature
+24-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:18:5-20:36
+25        android:name="android.hardware.camera.autofocus"
+25-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:19:9-57
+26        android:required="false" />
+26-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:20:9-33
+27    <uses-feature
+27-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:21:5-23:35
+28        android:glEsVersion="0x00030000"
+28-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:22:9-41
+29        android:required="true" />
+29-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:23:9-32
+30
+31    <application
+31-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:25:5-54:19
+32        android:allowBackup="true"
+32-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:26:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/1f0aa40219e6b120ccb05a6b024c88f0/core-1.3.0/AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:extractNativeLibs="false"
+36        android:icon="@mipmap/ic_launcher"
+36-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:27:9-43
+37        android:label="@string/app_name"
+37-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:28:9-41
+38        android:theme="@style/AppTheme" >
+38-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:29:9-40
+39        <meta-data
+39-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:30:9-32:36
+40            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+40-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:31:13-70
+41            android:value="face" />
+41-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:32:13-33
+42
+43        <activity android:name="com.team.uical.JoinMeeting" >
+43-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:33:9-39:20
+43-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:33:19-60
+44            <intent-filter>
+44-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:34:13-38:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:35:17-69
+45-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:35:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:37:17-77
+47-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:37:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:40:9-53:20
+51            android:name="com.team.uical.MainActivity"
+51-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:41:13-55
+52            android:configChanges="orientation|screenSize"
+52-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:42:13-59
+53            android:label="@string/app_name"
+53-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:43:13-45
+54            android:launchMode="singleTop" >
+54-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:44:13-43
+55            <intent-filter>
+55-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:45:13-52:29
+56                <action android:name="android.intent.action.VIEW" />
+56-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:46:17-69
+56-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:46:25-66
+57
+58                <category android:name="android.intent.category.DEFAULT" />
+58-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:48:17-76
+58-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:48:27-73
+59                <category android:name="android.intent.category.BROWSABLE" />
+59-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:49:17-78
+59-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:49:27-75
+60
+61                <data android:scheme="vidyoconnector" />
+61-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:51:17-57
+61-->/home/vasu/Downloads/Smart-Video-Conferencing-master/Mobile App/Android Project/Main/connect/Smart Video conference/app/src/main/AndroidManifest.xml:51:23-54
+62            </intent-filter>
+63        </activity>
+64
+65        <service
+65-->[com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:29:9-35:19
+66            android:name="com.google.firebase.components.ComponentDiscoveryService"
+66-->[com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:30:13-84
+67            android:directBootAware="true"
+67-->[com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+68            android:exported="false" >
+68-->[com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:31:13-37
+69            <meta-data
+69-->[com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:32:13-34:85
+70                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+70-->[com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:33:17-109
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-database:19.3.1] /home/vasu/.gradle/caches/transforms-2/files-2.1/a03dab9e51d9f2df62ea1518e192dc1e/jetified-firebase-database-19.3.1/AndroidManifest.xml:34:17-82
+72        </service>
+73
+74        <uses-library
+74-->[androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:25:9-27:40
+75            android:name="androidx.camera.extensions.impl"
+75-->[androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:26:13-59
+76            android:required="false" />
+76-->[androidx.camera:camera-extensions:1.0.0-alpha14] /home/vasu/.gradle/caches/transforms-2/files-2.1/605a0d7be3c2a3d1b9880a51bf79534e/jetified-camera-extensions-1.0.0-alpha14/AndroidManifest.xml:27:13-37
+77
+78        <service
+78-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:9:9-15:19
+79            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+79-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:10:13-91
+80            android:directBootAware="true"
+80-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:17:13-43
+81            android:exported="false" >
+81-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:11:13-37
+82            <meta-data
+82-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:12:13-14:85
+83                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+83-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:13:17-114
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/8b9a20e7bf84f4d792e34bcf0af8c384/jetified-play-services-mlkit-face-detection-16.1.0/AndroidManifest.xml:14:17-82
+85            <meta-data
+85-->[com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:12:13-14:85
+86                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+86-->[com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:13:17-124
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.mlkit:vision-common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/e599b754c340f6a2a31cd5eaf64c6f45/jetified-vision-common-16.0.0/AndroidManifest.xml:14:17-82
+88            <meta-data
+88-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:20:13-22:85
+89                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+89-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:21:17-120
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:22:17-82
+91        </service>
+92
+93        <provider
+93-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:9:9-13:38
+94            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+94-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:10:13-78
+95            android:authorities="com.team.uical.mlkitinitprovider"
+95-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:11:13-69
+96            android:exported="false"
+96-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:12:13-37
+97            android:initOrder="99" />
+97-->[com.google.mlkit:common:16.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/d54ead2e0d510f34357bc8439d163d60/jetified-common-16.0.0/AndroidManifest.xml:13:13-35
+98
+99        <activity
+99-->[com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+100            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+100-->[com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+101            android:exported="false"
+101-->[com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+102            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+102-->[com.google.android.gms:play-services-base:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/7f1c05604811b5d8b0b39e85e23d9427/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+103
+104        <provider
+104-->[com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+105            android:name="com.google.firebase.provider.FirebaseInitProvider"
+105-->[com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+106            android:authorities="com.team.uical.firebaseinitprovider"
+106-->[com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+107            android:exported="false"
+107-->[com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+108            android:initOrder="100" />
+108-->[com.google.firebase:firebase-common:19.3.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/23303e8a56a8b7181914e194f7eefe21/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+109
+110        <meta-data
+110-->[com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+111            android:name="com.google.android.gms.version"
+111-->[com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+112            android:value="@integer/google_play_services_version" />
+112-->[com.google.android.gms:play-services-basement:17.0.0] /home/vasu/.gradle/caches/transforms-2/files-2.1/aa0b0b1b8ee658361451379d95ea2969/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+113
+114        <service
+114-->[com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:29:9-35:19
+115            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+115-->[com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:30:13-103
+116            android:exported="false" >
+116-->[com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:31:13-37
+117            <meta-data
+117-->[com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:32:13-34:39
+118                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+118-->[com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:33:17-94
+119                android:value="cct" />
+119-->[com.google.android.datatransport:transport-backend-cct:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/45f1465f20790e76743c5ad5d40b43b5/jetified-transport-backend-cct-2.2.2/AndroidManifest.xml:34:17-36
+120        </service>
+121        <service
+121-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:26:9-30:19
+122            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+122-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:27:13-117
+123            android:exported="false"
+123-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:28:13-37
+124            android:permission="android.permission.BIND_JOB_SERVICE" >
+124-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:29:13-69
+125        </service>
+126
+127        <receiver
+127-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:32:9-34:40
+128            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+128-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:33:13-132
+129            android:exported="false" />
+129-->[com.google.android.datatransport:transport-runtime:2.2.2] /home/vasu/.gradle/caches/transforms-2/files-2.1/cf038ee5b6794e08020dbaa6b75d95c5/jetified-transport-runtime-2.2.2/AndroidManifest.xml:34:13-37
+130    </application>
+131
+132</manifest>
